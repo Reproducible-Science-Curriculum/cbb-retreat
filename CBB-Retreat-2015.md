@@ -69,7 +69,7 @@ Seizure study retracted after authors realize data got "terribly mixed"
 =====
 
 From the authors of **Low Dose Lidocaine for Refractory Seizures in
-Preterm Neonates** ([doi:10.1007/s12098-010-0331-7](http://dx.doi.org/10.1007/s12098-010-0331-7):
+Preterm Neonates** ([doi:10.1007/s12098-010-0331-7](https://doi.org/10.1007/s12098-010-0331-7):
 
 > The article has been retracted at the request of the authors. After carefully re-examining the data presented in the article, they identified that data of two different hospitals got terribly mixed. The published results cannot be reproduced in accordance with scientific and clinical correctness.
 
@@ -398,9 +398,9 @@ Best practices for file organization
 =====
 class: centered-image
 
-[![Noble (2009) “A Quick Guide to Organizing Computational Biology Projects.” PLoS Computational Biology 5 (7): e1000424](http://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=info:doi/10.1371/journal.pcbi.1000424.g001)](http://dx.doi.org/10.1371/journal.pcbi.1000424)
+[![Noble (2009) “A Quick Guide to Organizing Computational Biology Projects.” PLoS Computational Biology 5 (7): e1000424](http://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=info:doi/10.1371/journal.pcbi.1000424.g001)](https://doi.org/10.1371/journal.pcbi.1000424)
 
-<small>Noble, William Stafford. 2009. “[A Quick Guide to Organizing Computational Biology Projects](http://dx.doi.org/10.1371/journal.pcbi.1000424).” PLoS Computational Biology 5 (7): e1000424.</small>
+<small>Noble, William Stafford. 2009. “[A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424).” PLoS Computational Biology 5 (7): e1000424.</small>
 
 A data science project using R
 =====
@@ -519,11 +519,11 @@ increased visibility / citation
 =====
 left: 70%
 
-[![Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-full.png)](https://dx.doi.org/10.7717/peerj.175)
+[![Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-full.png)](https://doi.org/10.7717/peerj.175)
 
 ***
 
-Piwowar & Vision (2013) "[Data reuse and the open data citation advantage.](https://dx.doi.org/10.7717/peerj.175)" PeerJ, e175
+Piwowar & Vision (2013) "[Data reuse and the open data citation advantage.](https://doi.org/10.7717/peerj.175)" PeerJ, e175
 
 <small>Figure 1: Citation density for papers with and without publicly available microarray data, by year of study publication.</small>
 
@@ -539,11 +539,11 @@ Better research
 =====
 left: 70%
 
-[![Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0026828.g001)](http://dx.doi.org/10.1371/journal.pone.0026828)
+[![Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0026828.g001)](https://doi.org/10.1371/journal.pone.0026828)
 
 ***
 
-<small>Wicherts et al (2011) "[Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://dx.doi.org/10.1371/journal.pone.0026828)" PLoS ONE 6(11): e26828</small>
+<small>Wicherts et al (2011) "[Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](https://doi.org/10.1371/journal.pone.0026828)" PLoS ONE 6(11): e26828</small>
 
 <p style="font-size: 75%">Figure 1. Distribution of reporting errors per paper for papers from which data were shared and from which no data were shared.</p>
 
@@ -607,7 +607,7 @@ left: 70%
 
 ***
 
-> Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. “[A Quick Guide to Software Licensing for the Scientist-Programmer.](http://dx.doi.org/10.1371/journal.pcbi.1002598)” PLoS Computational Biology 8 (7): e1002598.
+> Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. “[A Quick Guide to Software Licensing for the Scientist-Programmer.](https://doi.org/10.1371/journal.pcbi.1002598)” PLoS Computational Biology 8 (7): e1002598.
 
 Don't put a license on facts (a.k.a. data)
 =====
@@ -626,8 +626,8 @@ Good - Better - Best
 
 <br/>
 <br/>
-[![Peng, R. D. (2011) Reproducible Research in Computational Science](media/Good-better-best.jpg)](http://dx.doi.org/10.1126/science.1213847)
-Peng, R. D. “[Reproducible Research in Computational Science](http://dx.doi.org/10.1126/science.1213847)” Science 334, no. 6060 (2011): 1226–1227
+[![Peng, R. D. (2011) Reproducible Research in Computational Science](media/Good-better-best.jpg)](https://doi.org/10.1126/science.1213847)
+Peng, R. D. “[Reproducible Research in Computational Science](https://doi.org/10.1126/science.1213847)” Science 334, no. 6060 (2011): 1226–1227
 
 Forming reproducible habits pays off
 =====
@@ -680,7 +680,7 @@ https://github.com/Reproducible-Science-Curriculum/cbb-retreat
 Further Resources
 =====
 
-* Entire [suppl. doc](http://www.sciencemag.org/content/suppl/2015/04/29/348.6234.567.DC1/Finnegan.SM.pdf) generated from Rmarkdown: Finnegan et al. 2015. “[Paleontological Baselines for Evaluating Extinction Risk in the Modern Oceans](http://dx.doi.org/10.1126/science.aaa6635).” Science 348 (6234): 567–70.
+* Entire [suppl. doc](http://www.sciencemag.org/content/suppl/2015/04/29/348.6234.567.DC1/Finnegan.SM.pdf) generated from Rmarkdown: Finnegan et al. 2015. “[Paleontological Baselines for Evaluating Extinction Risk in the Modern Oceans](https://doi.org/10.1126/science.aaa6635).” Science 348 (6234): 567–70.
 * [Data Analysis for the Life Sciences](http://simplystatistics.org/?p=4311) - a book completely written in R markdown
-* FitzJohn et al. 2014. “[How Much of the World Is Woody?](http://dx.doi.org/10.1111/1365-2745.12260)” The Journal of Ecology. doi:10.1111/1365-2745.12260. [Start to end replicable analysis on Github](https://github.com/richfitz/wood).
-* Boettiger et al. “[RNeXML: A Package for Reading and Writing Richly Annotated Phylogenetic, Character, and Trait Data in R](http://dx.doi.org/10.1111/2041-210X.12469).” Methods in Ecology and Evolution, September. [Code archive and DOI assignment at Zenodo](http://dx.doi.org/10.5281/zenodo.13131)
+* FitzJohn et al. 2014. “[How Much of the World Is Woody?](https://doi.org/10.1111/1365-2745.12260)” The Journal of Ecology. doi:10.1111/1365-2745.12260. [Start to end replicable analysis on Github](https://github.com/richfitz/wood).
+* Boettiger et al. “[RNeXML: A Package for Reading and Writing Richly Annotated Phylogenetic, Character, and Trait Data in R](https://doi.org/10.1111/2041-210X.12469).” Methods in Ecology and Evolution, September. [Code archive and DOI assignment at Zenodo](https://doi.org/10.5281/zenodo.13131)
